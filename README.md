@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alexandrecharles199777
 - 👀 I’m interested in whatever  makes me happy
 - 🌱 I’m currently learning Languages 
-- 💞️ I’m looking to collaborate on what benefits my future 
+- 💞️ I’m looking to collaborate with a partner 
 - 📫 How to reach me contact me on my email 
 
 <!---
