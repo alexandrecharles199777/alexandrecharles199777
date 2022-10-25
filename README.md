@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @alexandrecharles199777
-- 👀 I’m interested in whatever  makes me happy
-- 🌱 I’m currently learning Languages 
-- 💞️ I’m looking to collaborate with a partner 
-- 📫 How to reach me contact me on my email 
-
-<!---
-alexandrecharles199777/alexandrecharles199777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I have years of experience as an engineer/technician and I have worked with the World Health Organization for so many years and I must say I am proud to have a chance to work with the World Health Organization as a senior engineer/technician. It has not been an easy route with everything but in any where you find yourself you have to corporate which will always add more and more experience to your work knowledge.
